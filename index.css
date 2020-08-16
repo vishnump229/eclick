@@ -1,7 +1,7 @@
 
 .outer{ 
   height: 100%;
-  width: 100%;
+  width: 1000px;
   background-color:rgb(255, 155, 225);
   border-color: rgb(150, 189, 92); 
   float:left;
@@ -19,7 +19,7 @@
    //text-align: center;
  }
  .e {
-    margin-left: 35%;
+    margin-left: 30%;
     margin-top: 4px;
     margin-right: 0px;
     width: 25px;
@@ -30,7 +30,7 @@
   font-size: 15px;
   font-weight: bold;
   color: darkred;
-  margin-left: 50px;
+  margin-left: 20px;
   margin-top: 5px;
  // float: left;
  //text-align: center;
@@ -38,7 +38,7 @@
 .eclick{
     padding-left: 1px;
     padding-top: 0px;
-    height: 200px;
+    height: 100px;
     width: 100%;
     background-color: wheat;
     margin-left: 0px;
@@ -114,4 +114,5 @@
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+  .click{color:lime}
 }
