@@ -49,7 +49,7 @@
 .our_services{
   padding-left: 1px;
   padding-top: 0px;
-  height: 700px;
+  height: 2000px;
   width: 100%;
   background-color: rgb(114, 198, 247);
   margin-left: 0px;
@@ -115,10 +115,10 @@
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 359px) {
   .click{color:lime;}
   .e {
-    margin-left: 20%;
+    margin-left: 10%;
   }
 }
 
