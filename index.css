@@ -1,13 +1,13 @@
 
 .outer{ 
   height: 100%;
-  width: 1000px;
+  width: 360px;
   background-color:rgb(255, 155, 225);
   border-color: rgb(150, 189, 92); 
   float:left;
 }
 .content { 
-     max-width: 1500px;
+     max-width: 500px;
      margin:auto;
 }
 .click {
@@ -116,7 +116,8 @@
   .sidenav a {font-size: 18px;}
 }
 @media screen and (max-width: 259px) {
-  .click{color:lime;width:259px;}
+  .eclick{width:259px;}
+  .click{color:lime;}
   .e{margin-left: 10%;}
   .our_services{width:359px}
 }
