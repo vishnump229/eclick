@@ -114,5 +114,12 @@
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-  .click{color:lime}
 }
+@media screen and (max-width: 450px) {
+  .click{color:lime;}
+  .e {
+    margin-left: 20%;
+  }
+}
+
+ 
