@@ -116,10 +116,9 @@
   .sidenav a {font-size: 18px;}
 }
 @media screen and (max-width: 359px) {
-  .click{color:lime;}
-  .e {
-    margin-left: 10%;
-  }
+  .click{color:lime;width:359px}
+  .e {margin-left: 10%;}
+  .our_services{width:359px}
 }
 
  
